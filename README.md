@@ -4,7 +4,7 @@
 1. http://introducingthenovel.com 
 2. http://foodsense.is 
 3. http://ishadeed.com 
-4. https://ishadeed.com/article/vertical-media-queries/
+
 
 ### About Navigator
 상단이나 좌측 icon 누르면 메뉴가 펼쳐진다.
