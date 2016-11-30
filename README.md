@@ -20,5 +20,8 @@
 ### About Considering Lower Browsers
 우아한 기능 저하
 
+#### Personal note
+Fluid FDS reference - DAY14 - Mobile first css
+
 
 
