@@ -1,5 +1,16 @@
 {
   "name": "",
   "description": "### Reference Site 1. http://introducingthenovel.com  2. http://foodsense.is  3. http://ishadeed.com",
-  "version": ""
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
