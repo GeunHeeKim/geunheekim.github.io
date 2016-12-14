@@ -1,4 +1,4 @@
-# Geun Bae's Playground (http://geunheekim.github.io )
+# Geun Bae's Playground (<a href="http://geunheekim.github.io" target="_blank">http://geunheekim.github.io</a>  )
 
 ### Reference Site
 1. http://introducingthenovel.com 
