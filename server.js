@@ -1,8 +1,8 @@
 var express = require('express');
 var app = express();
 
-var indexRouter = require("./routes/index")(app);
-
+var indexRouter = require("./routes/main")(app);
+app.use("/public", express.static(__dirname + "/public"));
 app.set("port", process.env.PORT || 8080);
 // app.set("view engines", "ejs");
 app.engine("html", require("ejs").renderFile);
